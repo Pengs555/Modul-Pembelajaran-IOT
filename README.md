@@ -42,6 +42,12 @@ Repositori ini berisi rangkaian jobsheet praktikum Internet of Things (IoT) yang
 - Grafana
 - HTML/CSS (basic frontend)
 
+## 💻 Sensor dan Aktuator
+- Sensor DHT11
+- Sensor LDR
+- LED
+- Relay
+
 ---
 
 ## 📎 Catatan
